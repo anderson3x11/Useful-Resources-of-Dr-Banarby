@@ -25,7 +25,7 @@ Use it wisely. Or not. Up to you.
 | [Cybersecurity 101 (FR)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/) | A beginner-friendly guide in French to understand key cybersecurity concepts and best practices. Solid intro for newcomers. |
 | [Webhook](https://webhook.site/) | Instantly generate a public URL to capture, inspect and debug webhooks, HTTP requests, and more. Magic for testing and mischief. |
 | [Reverse Shell Generator](https://www.revshells.com/) | A concise collection of ready-to-use reverse and bind shell one-liners for many languages and platforms (bash, python, php, nc, powershell, etc.). Great quick-reference when you need a working payload during labs or engagements. |
-
+| [Shell-Storm](https://shell-storm.org/shellcode/index.html) | A curated collection of various Capture The Flag (CTF) challenges and resources sourced from different cybersecurity competitions |
 ---
 
 ## 🧰 Tools Chapter
