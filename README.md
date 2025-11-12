@@ -25,7 +25,19 @@ Use it wisely. Or not. Up to you.
 | [Cybersecurity 101 (FR)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/) | A beginner-friendly guide in French to understand key cybersecurity concepts and best practices. Solid intro for newcomers. |
 | [Webhook](https://webhook.site/) | Instantly generate a public URL to capture, inspect and debug webhooks, HTTP requests, and more. Magic for testing and mischief. |
 | [Reverse Shell Generator](https://www.revshells.com/) | A concise collection of ready-to-use reverse and bind shell one-liners for many languages and platforms (bash, python, php, nc, powershell, etc.). Great quick-reference when you need a working payload during labs or engagements. |
-| [Shell-Storm](https://shell-storm.org/shellcode/index.html) | A curated collection of various Capture The Flag (CTF) challenges and resources sourced from different cybersecurity competitions |
+| [Shell-Storm](https://shell-storm.org/shellcode/index.html) | A curated collection of various Capture The Flag (CTF) challenges and resources sourced from different cybersecurity competitions. |
+| [Peass-ng](https://github.com/peass-ng/PEASS-ng) | Privilege Escalation Awesome Scripts Suite (PEASS-ng) is a collection of scripts to search for potential local privilege escalation paths on both Linux (LinPEAS) and Windows (WinPEAS) systems. |
+| [LinEnum](https://github.com/rebootuser/LinEnum) | A comprehensive shell script for local Linux enumeration and privilege escalation checks, gathering system information and identifying misconfigurations. |
+| [LinuxPrivChecker](https://github.com/sleventyeleven/linuxprivchecker) | A Python script designed for Linux privilege escalation checks, enumerating basic system info and searching for common vectors like misconfigurations or clear-text passwords.|
+---
+
+## 🪟 Windows Chapter
+
+| 🌍 Tool | 💬 Description |
+|--------|----------------|
+| [Seatbelt](https://github.com/GhostPack/Seatbelt) | A C# project that performs a number of security-oriented host-survey "safety checks" relevant to both offensive and defensive perspectives on Windows systems. |
+| [JAWS](https://github.com/411Hall/JAWS) | Just Another Windows (Enum) Script — a PowerShell script to quickly identify potential privilege escalation vectors on Windows systems. |
+| [LOLBAS](https://lolbas-project.github.io/) | A reference and documentation site for Living Off The Land Binaries and Scripts (LOLBAS), which are trusted Windows binaries and scripts that can be misused by attackers for malicious purposes (e.g., execution, defense evasion). |
 ---
 
 ## 🧰 Tools Chapter
