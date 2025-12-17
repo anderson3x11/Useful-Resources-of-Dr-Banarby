@@ -90,6 +90,7 @@ Use it wisely. Or not. Up to you.
 | [tldr.sh](https://tldr.inbrowser.app/) | Simplified man pages. |
 | [Devhints.io](https://devhints.io/) | Great cheat sheets for a ton of tools and languages (including Bash, Vim, etc.). |
 | [Vim Cheat Sheet](https://vim.rtorr.com/) | Minimal but mighty Vim cheat sheet. Yes, Vim is painful. No, you're not alone. |
+| [SysCall Cheat Sheet](https://syscall.sh/) | Multiple architectures syscall table. |
 
 ---
 
